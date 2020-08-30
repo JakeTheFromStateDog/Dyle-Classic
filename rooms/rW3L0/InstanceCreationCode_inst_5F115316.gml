@@ -1,0 +1,1 @@
+wordsToDraw = "Hold down to fall faster. \nHold down and boost to do a hop. \nNow have fun crying in pain.";

@@ -1,0 +1,1 @@
+wordsToDraw = "These platforms are kinda like infinite jump things. \nWhen on one you can jump forever.";

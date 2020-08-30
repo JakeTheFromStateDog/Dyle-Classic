@@ -1,0 +1,1 @@
+roomGoTo = rEnding;

@@ -1,0 +1,1 @@
+wordsToDraw = "Jump with the space bar. You can wall climb by pressing jump while on a wall.";

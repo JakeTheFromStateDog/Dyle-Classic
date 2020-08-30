@@ -1,0 +1,1 @@
+if (keyEscapePressed) room_goto(rMain);

@@ -1,0 +1,1 @@
+wordsToDraw = "You have two boosts. Isn't that radical?";

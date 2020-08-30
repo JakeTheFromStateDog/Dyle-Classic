@@ -1,0 +1,16 @@
+{
+  "option_gameguid": "8232af11-74d9-48b4-9e49-6a3555c16895",
+  "option_game_speed": 60,
+  "option_mips_for_3d_textures": false,
+  "option_draw_colour": 4294967295,
+  "option_window_colour": 4278190080,
+  "option_steam_app_id": "0",
+  "option_sci_usesci": true,
+  "option_author": "Jake The From StateDog",
+  "option_lastchanged": "30 August 2020 18:16:57",
+  "option_spine_licence": false,
+  "resourceVersion": "1.2",
+  "name": "Main",
+  "tags": [],
+  "resourceType": "GMMainOptions",
+}

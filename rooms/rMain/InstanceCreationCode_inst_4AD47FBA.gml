@@ -1,0 +1,2 @@
+target = oCursor;
+useManualCamera = false;

@@ -1,0 +1,1 @@
+wordsToDraw = "We don't talk about this part of the game.";

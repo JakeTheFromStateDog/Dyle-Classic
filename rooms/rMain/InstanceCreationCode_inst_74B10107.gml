@@ -1,0 +1,1 @@
+wordsToDraw = "This resets all of your saves. \nMaybe don't press it for now.";
